@@ -1,0 +1,82 @@
+﻿  function.cpp
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(29): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(30): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(31): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(32): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(95): error C2039: “time_t”: 不是“std”的成员
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(21): note: 参见“std”的声明
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(95): error C2039: “time”: 不是“std”的成员
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(21): note: 参见“std”的声明
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(95): error C3861: “time”: 找不到标识符
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(99): error C3861: “localtime_s”: 找不到标识符
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(110): error C2039: “to_string”: 不是“std”的成员
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(21): note: 参见“std”的声明
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(110): error C3861: “to_string”: 找不到标识符
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(111): error C2039: “to_string”: 不是“std”的成员
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(21): note: 参见“std”的声明
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(111): error C3861: “to_string”: 找不到标识符
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(112): error C2039: “to_string”: 不是“std”的成员
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(21): note: 参见“std”的声明
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(112): error C3861: “to_string”: 找不到标识符
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(113): error C2039: “to_string”: 不是“std”的成员
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(21): note: 参见“std”的声明
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(113): error C3861: “to_string”: 找不到标识符
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(114): error C2039: “to_string”: 不是“std”的成员
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(21): note: 参见“std”的声明
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(114): error C3861: “to_string”: 找不到标识符
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(115): error C2039: “to_string”: 不是“std”的成员
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(21): note: 参见“std”的声明
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(115): error C3861: “to_string”: 找不到标识符
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(123): error C2039: “getline”: 不是“std”的成员
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(21): note: 参见“std”的声明
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(123): error C3861: “getline”: 找不到标识符
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(127): error C3861: “stoi”: 找不到标识符
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(135): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(153): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(155): error C2679: 二进制“<<”: 没有找到接受“_Ty”类型的右操作数的运算符(或没有可接受的转换)
+          with
+          [
+              _Ty=std::string
+          ]
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(508): note: 可能是“std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(480): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(460): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(440): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(420): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(400): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(380): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(360): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(340): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(320): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(295): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(275): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(241): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(221): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(215): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(209): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(204): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(1047): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(981): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(974): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(967): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(960): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(834): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(787): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(749): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)”
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(702): note: 或    “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)”
+  c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(155): note: 尝试匹配参数列表“(std::ofstream, _Ty)”时
+          with
+          [
+              _Ty=std::string
+          ]
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(156): error C3861: “to_string”: 找不到标识符
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(165): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(166): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(167): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(175): error C2039: “getline”: 不是“std”的成员
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(21): note: 参见“std”的声明
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(175): error C3861: “getline”: 找不到标识符
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(177): error C2039: “getline”: 不是“std”的成员
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(21): note: 参见“std”的声明
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(177): error C3861: “getline”: 找不到标识符
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(179): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据

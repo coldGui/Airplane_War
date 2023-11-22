@@ -1,0 +1,82 @@
+﻿  classes.cpp
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(91): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(92): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(93): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(94): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  function.cpp
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(29): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(30): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(31): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(32): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(135): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(155): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(176): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(177): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(178): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\function.cpp(190): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(91): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(92): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(93): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(94): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\main.cpp(46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\main.cpp(47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\main.cpp(48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\main.cpp(49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\main.cpp(50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\main.cpp(51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\main.cpp(78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\main.cpp(81): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\main.cpp(82): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\main.cpp(83): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\main.cpp(84): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\main.cpp(85): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\main.cpp(86): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\main.cpp(116): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(314): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(312): note: 编译 类 模板 成员函数 "int enemy<bullet>::SHOW(std::vector<T *,std::allocator<_Ty>> &)" 时
+          with
+          [
+              T=bullet,
+              _Ty=bullet *
+          ]
+  c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\main.cpp(33): note: 参见对正在编译的函数 模板 实例化“int enemy<bullet>::SHOW(std::vector<T *,std::allocator<_Ty>> &)”的引用
+          with
+          [
+              T=bullet,
+              _Ty=bullet *
+          ]
+  c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\main.cpp(23): note: 参见对正在编译的 类 模板 实例化 "enemy<bullet>" 的引用
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(324): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(325): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(208): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(191): note: 编译 类 模板 成员函数 "void airplane<bullet>::MOUSE_MOVE(std::vector<RECT,std::allocator<_Ty>> &,Image_collect &,std::vector<T *,std::allocator<bullet*>> &,std::vector<int,std::allocator<int>> &)" 时
+          with
+          [
+              _Ty=RECT,
+              T=bullet
+          ]
+  c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\main.cpp(32): note: 参见对正在编译的函数 模板 实例化“void airplane<bullet>::MOUSE_MOVE(std::vector<RECT,std::allocator<_Ty>> &,Image_collect &,std::vector<T *,std::allocator<bullet*>> &,std::vector<int,std::allocator<int>> &)”的引用
+          with
+          [
+              _Ty=RECT,
+              T=bullet
+          ]
+  c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\main.cpp(22): note: 参见对正在编译的 类 模板 实例化 "airplane<bullet>" 的引用
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(221): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(354): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(353): note: 编译 类 模板 成员函数 "void enemy<bullet>::BULLET_SHOW(void)" 时
+  c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(343): note: 参见对正在编译的函数 模板 实例化“void enemy<bullet>::BULLET_SHOW(void)”的引用
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(363): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(277): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(267): note: 编译 类 模板 成员函数 "void enemy<bullet>::product_enemy(int)" 时
+  c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(313): note: 参见对正在编译的函数 模板 实例化“void enemy<bullet>::product_enemy(int)”的引用
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(299): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(177): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(171): note: 编译 类 模板 成员函数 "void airplane<bullet>::BULLET_SHOW(int,int)" 时
+  c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(161): note: 参见对正在编译的函数 模板 实例化“void airplane<bullet>::BULLET_SHOW(int,int)”的引用
+c:\users\26414\documents\visual studio 2022\airplane_war\airplane_war\classes.cpp(187): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  All 882 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  airplane_war.vcxproj -> C:\Users\26414\Documents\Visual Studio 2022\airplane_war\x64\Release\airplane_war.exe
